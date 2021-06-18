@@ -87,6 +87,3 @@ export class SearchRequestService {
         return promise;
     }
 }
-
-
-
