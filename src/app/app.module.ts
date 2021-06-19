@@ -15,6 +15,7 @@ import { SearchFormComponent } from './search-form/search-form.component';
 import {FormsModule} from '@angular/forms';
 import {SearchRequestService} from './search-request.service';
 import { UpperCasePipe } from './upper-case.pipe';
+import { NavigationComponent } from './navigation/navigation.component';
 
 
 
@@ -29,7 +30,8 @@ import { UpperCasePipe } from './upper-case.pipe';
     SearchComponent,
     RepositoriesComponent,
     SearchFormComponent,
-    UpperCasePipe
+    UpperCasePipe,
+    NavigationComponent
   ],
   imports: [
     BrowserModule,

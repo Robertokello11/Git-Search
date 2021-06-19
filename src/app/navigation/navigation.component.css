@@ -1,0 +1,17 @@
+.navbar-dark{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+.container{
+    background-color: cyan;
+}
+.header{
+    text-align: center;
+    color: ivory;
+}
+#git{
+    padding-bottom: 0;
+}
