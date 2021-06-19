@@ -15,9 +15,9 @@ export class SearchRequestService {
     searchRepo: any;
 
 
-  private username:string;
-  private clientId = '83c6c2b47ea64c3c24e4';
-  private clientSecret = '4ac69186772cf4986634097fb6106cc8cf9d6c7f';
+//   private username:string;
+//   private clientId = '83c6c2b47ea64c3c24e4';
+//   private clientSecret = '4ac69186772cf4986634097fb6106cc8cf9d6c7f';
   getProfileRepo: any;
     constructor(private http: HttpClient) {
         this.repository = new Repository('', '', '', new Date());

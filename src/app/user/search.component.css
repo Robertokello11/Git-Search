@@ -34,9 +34,8 @@ p {
 }
 .container {
     margin-top: 2rem;
-    background-color:rgb(245, 245, 244);
-    opacity: 90%;
-    backface-visibility: 70px;
+    background-image:;
+    opacity: 80%;
 }
 
 
