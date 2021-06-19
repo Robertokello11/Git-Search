@@ -28,7 +28,7 @@ td a {
 
 p {
     text-indent: 2rem;
-    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "sans-serif", monospace;
 }
 
 .col-md-12 {
